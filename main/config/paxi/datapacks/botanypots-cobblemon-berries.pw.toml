@@ -1,0 +1,13 @@
+name = "Botanypots & Cobblemon berries"
+filename = "Botanypots & Cobblemon berries.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RwZ4YN1o/versions/vghJBCBv/Botanypots%20%26%20Cobblemon%20berries.zip"
+hash-format = "sha512"
+hash = "4d72257caf9e61bb998f52aa4d8bd0330e723b22b1b922a87922dce6a92d1ed596d30672878ad0fb92be0c330658f6acb6e6a463f368de09cbd82153a95f4516"
+
+[update]
+[update.modrinth]
+mod-id = "RwZ4YN1o"
+version = "vghJBCBv"

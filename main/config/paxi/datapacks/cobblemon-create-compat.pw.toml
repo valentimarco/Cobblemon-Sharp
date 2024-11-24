@@ -1,0 +1,13 @@
+name = "Cobblemon Create Compat"
+filename = "Cobblemon Create Compat v2.0 (Forge).zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FlBGHs9w/versions/qeqayGR2/Cobblemon%20Create%20Compat%20v2.0%20%28Forge%29.zip"
+hash-format = "sha512"
+hash = "4179f4b482c8e49326da4aba4b0320855966c151c514c62346fbfd6a40a6e5394a8a84b7aecca5c0bd100a16310f83c46c5cbf90d6740dfd4b82975de23bff7e"
+
+[update]
+[update.modrinth]
+mod-id = "FlBGHs9w"
+version = "qeqayGR2"

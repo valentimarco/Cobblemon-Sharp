@@ -1,0 +1,13 @@
+name = "CobblemonLoot"
+filename = "CobblemonLoot-v1.1.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/q4kL243P/versions/eJqaB3V6/CobblemonLoot-v1.1.1.zip"
+hash-format = "sha512"
+hash = "59427f1e77b4229a01221434e4cdec02c5a8e822b8a1ba9f98e94d0db63ad29044240334741cbe49fffc73c90700cefd85abdc38265c5cccc332aaaa39246b7a"
+
+[update]
+[update.modrinth]
+mod-id = "q4kL243P"
+version = "eJqaB3V6"

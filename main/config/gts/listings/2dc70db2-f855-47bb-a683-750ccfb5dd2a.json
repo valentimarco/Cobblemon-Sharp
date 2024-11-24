@@ -1,0 +1,76 @@
+{
+  "pokemon": {
+    "CobblemonVersion": "1.5.2",
+    "UUID": "688cfd17-73b8-457e-a4f5-1818fec5738a",
+    "Species": "cobblemon:oshawott",
+    "FormId": "normal",
+    "Experience": 643,
+    "Level": 10,
+    "Friendship": 70,
+    "Health": 32,
+    "Gender": "MALE",
+    "IVs": {
+      "hp": 27,
+      "attack": 30,
+      "defence": 11,
+      "special_attack": 5,
+      "special_defence": 31,
+      "speed": 25
+    },
+    "EVs": {
+      "hp": 1
+    },
+    "MoveSet": {
+      "MoveSet0": {
+        "MoveName": "watergun",
+        "MovePP": 25,
+        "RaisedPPStages": 0
+      },
+      "MoveSet1": {
+        "MoveName": "tailwhip",
+        "MovePP": 30,
+        "RaisedPPStages": 0
+      },
+      "MoveSet2": {
+        "MoveName": "tackle",
+        "MovePP": 32,
+        "RaisedPPStages": 0
+      }
+    },
+    "ScaleModifier": 1.0,
+    "Ability": {
+      "AbilityName": "torrent",
+      "AbilityForced": false,
+      "AbilityIndex": 0,
+      "AbilityPriority": "LOWEST"
+    },
+    "Shiny": false,
+    "State": {},
+    "CaughtBall": "cobblemon:poke_ball",
+    "BenchedMoves": [],
+    "FaintedTimer": -1,
+    "HealingTimer": 41,
+    "Evolutions": {
+      "Pending": {
+        "pending": [],
+        "progress": []
+      }
+    },
+    "PokemonData": [],
+    "Nature": "cobblemon:quirky",
+    "PersistentData": {},
+    "TeraType": "cobblemon:water",
+    "DmaxLevel": 0,
+    "GmaxFactor": false,
+    "Tradeable": true,
+    "PokemonOriginalTrainerType": "PLAYER",
+    "PokemonOriginalTrainer": "7e624767-1418-4e07-84cc-468dfe93a6d7"
+  },
+  "version": "2.0",
+  "id": "2dc70db2-f855-47bb-a683-750ccfb5dd2a",
+  "sellerUuid": "7e624767-1418-4e07-84cc-468dfe93a6d7",
+  "sellerName": "valentimarco",
+  "price": 10000.0,
+  "endTime": 1732378090035,
+  "isPokemon": true
+}

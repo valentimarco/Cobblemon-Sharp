@@ -1,0 +1,311 @@
+{
+  "history": [
+    {
+      "pokemonUuid": "f130af8b-ccc0-4022-a448-7b1c96acc0e1",
+      "time": 1732310303060,
+      "type": "CAPTURED",
+      "playerSpawned": "valentimarco",
+      "playerActed": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "77e88f87-0eec-4cb9-b34b-2681a4162296",
+      "time": 1732310359586,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "3953e8c4-bea3-4c62-8c5e-acaf153b2c79",
+      "time": 1732310496184,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "f64996c4-32ac-4af9-9587-d4bcdb3da0b6",
+      "time": 1732310533687,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "f1f53b67-ddf9-4399-ae10-5bd0e3faa862",
+      "time": 1732310656433,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "93d3a206-6704-4aec-9a62-2ca9b6bdf34c",
+      "time": 1732310778633,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "f1d58ea0-95e2-4174-b74f-7f58de16a568",
+      "time": 1732311237084,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "1c47cf4a-4ada-48e1-8cd0-ae6094a754a9",
+      "time": 1732321621466,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "de12db27-c22c-4901-8d2f-2a5d9a5513b5",
+      "time": 1732321701567,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "9fd062e3-434b-4cb7-8ce6-3aa95d765dc3",
+      "time": 1732321735217,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "5ec9957a-397f-4700-9379-f0a4604cf1c0",
+      "time": 1732321906917,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "5476aa77-6e77-4ad6-945f-9a0e909099e9",
+      "time": 1732322451646,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "717687b7-6784-4ff8-a89e-1632df3a6b58",
+      "time": 1732322497197,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Old growth pine taiga"
+    },
+    {
+      "pokemonUuid": "36df76ae-f5f5-41b9-9c09-e52b0e720cbe",
+      "time": 1732322566747,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Old growth pine taiga"
+    },
+    {
+      "pokemonUuid": "34027ef5-4a8f-4e2b-a91a-bcbbf0a73d71",
+      "time": 1732322678096,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Forest"
+    },
+    {
+      "pokemonUuid": "df066bda-315b-4b10-86fd-cc5f1ffae5a5",
+      "time": 1732324523821,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Yellowstone"
+    },
+    {
+      "pokemonUuid": "7e1f9b6d-3bcd-4f50-b438-bba5da409ea9",
+      "time": 1732377708410,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Yellowstone"
+    },
+    {
+      "pokemonUuid": "0df35d8c-cefa-45f8-a3c9-0d3c77b1b92d",
+      "time": 1732378217196,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Cold shrubland"
+    },
+    {
+      "pokemonUuid": "951d9787-6c38-43d7-9581-dda40b347a1d",
+      "time": 1732378349846,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Snowy badlands"
+    },
+    {
+      "pokemonUuid": "23ce305a-2e76-4018-b2fb-4e2478c1e80e",
+      "time": 1732378403444,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Snowy badlands"
+    },
+    {
+      "pokemonUuid": "af2a12c0-3f9b-4e72-8fc6-7a2d9453b251",
+      "time": 1732378449196,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Snowy badlands"
+    },
+    {
+      "pokemonUuid": "ed8ac3f4-5efa-4bec-a2e1-b23f6f8f616b",
+      "time": 1732378533545,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Snowy badlands"
+    },
+    {
+      "pokemonUuid": "35b12a2b-69d1-47cc-911e-10ef9cf82d18",
+      "time": 1732378590642,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Snowy badlands"
+    },
+    {
+      "pokemonUuid": "34849da3-b6fa-4f65-8bc7-eaf1b57c5e66",
+      "time": 1732379738891,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Desert"
+    },
+    {
+      "pokemonUuid": "c5a36a95-b4cc-4426-aec8-d4f6ff0c720b",
+      "time": 1732379844364,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Lukewarm ocean"
+    },
+    {
+      "pokemonUuid": "6d768bf8-9355-4e45-a013-ea6e626fabe5",
+      "time": 1732380049843,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Warm river"
+    },
+    {
+      "pokemonUuid": "66d2a233-06d7-47cd-a9a0-201ce64d63d2",
+      "time": 1732380210244,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Desert"
+    },
+    {
+      "pokemonUuid": "8fb9bde2-6cd1-4f2c-9f8a-f67c13421b73",
+      "time": 1732380290944,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Desert"
+    },
+    {
+      "pokemonUuid": "eb4d1697-5ee9-444b-a4ad-bad47d050a6d",
+      "time": 1732383109234,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Cold ocean"
+    },
+    {
+      "pokemonUuid": "efaa3929-2acc-493d-ae9e-944131bfff27",
+      "time": 1732383162087,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Frozen ocean"
+    },
+    {
+      "pokemonUuid": "32f71db1-05ae-4893-9cfa-26f9433641e3",
+      "time": 1732383533336,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Cold shrubland"
+    },
+    {
+      "pokemonUuid": "debda35b-4f65-4523-951f-364b4ad55ffc",
+      "time": 1732383593333,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Cold shrubland"
+    },
+    {
+      "pokemonUuid": "26ffd685-0103-42f0-acea-3f5678e99806",
+      "time": 1732383800469,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Gravel beach"
+    },
+    {
+      "pokemonUuid": "6e05e06d-2502-4dcf-b6dd-8ef0278a365b",
+      "time": 1732385251602,
+      "type": "DESPAWNED",
+      "playerSpawned": "valentimarco",
+      "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+      "dimension": "minecraft:overworld",
+      "biome": "Taiga"
+    }
+  ]
+}

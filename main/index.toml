@@ -1,6 +1,56 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/paxi/datapacks/alphabetsoup.pw.toml"
+hash = "3c8a39c28f935611ffc29185658a3eb7fdf07ae851dd8332ad409a0d4ce113ae"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/better-mass-outbreaks.pw.toml"
+hash = "2b2f1a98776d12ae79cad114e80655ff829f1b6220cf1afcf151a4b3bbdc9793"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/botanypots-cobblemon-berries.pw.toml"
+hash = "7aa865d12cbca89cac96bd19ce87172997ada4a0c9ff117c5da449e5e785408c"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/cobblemon-additions.pw.toml"
+hash = "b436150a577768c9b8980ae9db8a70312c1f1ff995ee10fe879445646171fe4f"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/cobblemon-create-compat.pw.toml"
+hash = "d2ccb037f9121e792079bbd9a5120f84fb8543493c8ebcb1c2d6eabf301afdf4"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/cobblemonloot.pw.toml"
+hash = "611eeb326220aed1c7a13d70ed7ec8376a6df1aafd0702b094cd14e6485dc9a7"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/cobbletowns.pw.toml"
+hash = "00a307724f8b64e0b9987803538392b7b3c6fb524d76f3beaefc7f5b294deaa7"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/missing-legends-cobblemon.pw.toml"
+hash = "871396a4eadec1941603763bcac238c2ff7d25691fd5edb9d5dd328536746382"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/poke-costume.pw.toml"
+hash = "99bd2d4334a81f034a4256f5b00be4f94f52838cc1d3df8f0081c7bf2fd4a51d"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/the-jewel-pokmon-cobblemon.pw.toml"
+hash = "b099399639142fe13beefde0127e29508d9254affe6d077638a1ae482e20f5b6"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
 metafile = true
@@ -723,4 +773,49 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
+metafile = true
+
+[[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+hash = "b3a1e8b5219a31b8145109c432457bcd13cb201dd913d6d980657f80169a55ff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/boenks-cobblemon-item-descriptions.pw.toml"
+hash = "c288213d9996272370c10fbb6b1f1ea160e71fae222bd6cdefb6efdf906d5002"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-classic-grass-pack.pw.toml"
+hash = "fa8895adcf05849158b6d3750f8570d5a181530b52718cf5e0ec6cb55aded44f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-emissive-ores.pw.toml"
+hash = "24929b7b13a383e91d03f15c0a59fa97c8062eb1d83a9e924c7eb46ed33f8fde"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-gs-apricorn-leaves.pw.toml"
+hash = "5aed2538f5181f5c4f1c7357b1f598e0cc39a46e6bd8c4f692a864ed0581958b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-interface-modded.pw.toml"
+hash = "151f21e070e7b08bd8c198fc2e772e5f5df1c522f34da07196f620cdebb48064"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemon-interface.pw.toml"
+hash = "a25e9e51679fa454c43146bd8e42fed091dbe9b4b88cbb2b7ba3c9f59314e573"
+metafile = true
+
+[[files]]
+file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
+hash = "1958d6c39b0c3c1093549fb45ea18e514bd4fc891b4dd47baae174bce3bf78cf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/pokeplaques-cobblemon.pw.toml"
+hash = "2edc2d7acbf81efd5c9310dcb1f551369ddf09b8210f86d779613c991bdf3f3e"
 metafile = true

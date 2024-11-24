@@ -1,0 +1,13 @@
+name = "Cobblemon - GS Apricorn Leaves"
+filename = "GS Apricot Leaves.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/joXmQxAd/versions/77yX2VpQ/GS%20Apricot%20Leaves.zip"
+hash-format = "sha512"
+hash = "3da10fafb59fd37b35b43102d2259d8ea52e844ae02787d37b257689e655aaf418f9ac23447c547cb47973ef1c06cfc79817f14e6bc0bc86d1326b4ed1364c25"
+
+[update]
+[update.modrinth]
+mod-id = "joXmQxAd"
+version = "77yX2VpQ"

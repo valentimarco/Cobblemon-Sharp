@@ -1,0 +1,71 @@
+{
+  "title": "<blue>Legendary Spawn History",
+  "liveSpawnSlot": 0,
+  "liveSpawnLores": [
+    "{pokemon}",
+    "<gray>Spawned near <aqua>{player_name.spawned}</aqua> in {dimension} <red>{time_passed}</red> ago",
+    "<gray>Biome: <yellow>{biome}"
+  ],
+  "historySlots": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+  ],
+  "historyLores": [
+    "{pokemon}",
+    "<gray>Spawned near <aqua>{player_name.spawned}</aqua> in {dimension} <red>{time_passed}</red> ago",
+    "<gray>Biome: <yellow>{biome}",
+    "Status: {status} by {player_name.acted}"
+  ],
+  "navForwardSlots": [
+    37
+  ],
+  "navForwardStack": {
+    "displayName": "<aqua>Next Page",
+    "material": "minecraft:arrow",
+    "amount": 1,
+    "nbt": "",
+    "lore": [
+      "<yellow>Click to view next page"
+    ]
+  },
+  "navBackSlots": [
+    36
+  ],
+  "navBackStack": {
+    "displayName": "<aqua>Previous Page",
+    "material": "minecraft:arrow",
+    "amount": 1,
+    "nbt": "",
+    "lore": [
+      "<yellow>Click to view previous page"
+    ]
+  },
+  "emptySlotSlots": [
+    3
+  ],
+  "emptySlotStack": {
+    "displayName": "<gray>",
+    "material": "minecraft:yellow_stained_glass_pane",
+    "amount": 10,
+    "nbt": "",
+    "lore": [
+      "Empty block"
+    ]
+  }
+}

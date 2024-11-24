@@ -1,0 +1,11 @@
+{
+  "pokemonProperties": "zapdos lvl=50 special_attack_iv=31",
+  "broadcast": {
+    "spawn": "<blue>The mythical entity, <yellow>Zapdos</yellow>, has been spotted in <light_purple>{biome}!\n\n<blue>Closest player: <aqua>{player_name.spawned}</aqua>",
+    "despawn": "<blue>The mythical entity, <yellow>Zapdos</yellow>, has despawned.</blue>",
+    "capture": "<blue>The mythical entity, <yellow>Zapdos</yellow>, has been captured by <aqua>{player_name.acted}</aqua>!</blue>",
+    "kill": "<blue>The mythical entity, <yellow>Zapdos</yellow>, has been killed by <aqua>{player_name.acted}</aqua>!</blue>"
+  },
+  "spawnWeight": 1,
+  "sound": "minecraft:entity.lightning_bolt.thunder"
+}

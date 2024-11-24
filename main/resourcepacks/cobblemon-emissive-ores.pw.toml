@@ -1,0 +1,13 @@
+name = "Cobblemon Emissive Ores"
+filename = "emissive-cobblemon-ores.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SpgcWKWY/versions/k0h2Tuz2/emissive-cobblemon-ores.zip"
+hash-format = "sha512"
+hash = "0154f14a296222f991349ef060dbe989621305947716ac7f90d5456b6059ca1c764a042e46eb89c7f618156840853e597d35c91d94d6f7016f01eb09178c4ca1"
+
+[update]
+[update.modrinth]
+mod-id = "SpgcWKWY"
+version = "k0h2Tuz2"

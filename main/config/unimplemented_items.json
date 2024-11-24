@@ -1,0 +1,14 @@
+{
+  "abilityPatchGen9": true,
+  "lootPoolOverrides": [
+    {
+      "field_13353": "minecraft",
+      "field_13355": "gameplay/fishing/treasure"
+    },
+    {
+      "field_13353": "minecraft",
+      "field_13355": "blocks/grass"
+    }
+  ],
+  "shinyCharmBonusRolls": 2
+}

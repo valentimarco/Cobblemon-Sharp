@@ -1,0 +1,11 @@
+{
+  "levelOneStreak": 5,
+  "levelTwoStreak": 10,
+  "levelThreeStreak": 20,
+  "levelFourStreak": 30,
+  "levelZeroEggMoveChance": 0,
+  "levelOneEggMoveChance": 21,
+  "levelTwoEggMoveChance": 46,
+  "levelThreeEggMoveChance": 58,
+  "levelFourEggMoveChance": 65
+}

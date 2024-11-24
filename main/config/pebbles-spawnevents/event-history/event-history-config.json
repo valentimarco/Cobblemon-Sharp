@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "capturedStatus": "<green>Captured",
+  "killedStatus": "<red>Killed",
+  "despawnedStatus": "<yellow>Despawned",
+  "unknownStatus": "<gray>Unknown"
+}

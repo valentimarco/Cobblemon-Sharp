@@ -1,0 +1,13 @@
+name = "Missing Legends [Cobblemon]"
+filename = "Missing Legends V1.2[No Genesect or Regi Resize].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Aji28WRU/versions/pOmLxnI2/Missing%20Legends%20V1.2%5BNo%20Genesect%20or%20Regi%20Resize%5D.zip"
+hash-format = "sha512"
+hash = "73e73a945b19619d4173f144817dbe1cd68b86ab1fb489f945cfe2359ccc44986b8f4291408f0f445a7f3cb5e51f9ff94cfcc8d002465580cfef28be06ac05d5"
+
+[update]
+[update.modrinth]
+mod-id = "Aji28WRU"
+version = "pOmLxnI2"

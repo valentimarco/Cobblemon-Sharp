@@ -1,0 +1,34 @@
+{
+  "version": "2.1",
+  "broadcastListings": true,
+  "enablePermissionNodes": true,
+  "maxListingsPerPlayer": 8,
+  "listingDuration": 72,
+  "discord": {
+    "useWebhooks": false,
+    "url": "WEBHOOK_URL"
+  },
+  "showBreedable": false,
+  "minPrice1IV": 10000.0,
+  "minPrice2IV": 20000.0,
+  "minPrice3IV": 30000.0,
+  "minPrice4IV": 40000.0,
+  "minPrice5IV": 50000.0,
+  "minPrice6IV": 60000.0,
+  "minPriceHA": 50000.0,
+  "minPriceLegendary": 50000.0,
+  "minPriceUltrabeast": 30000.0,
+  "maximumPrice": 1000000.0,
+  "customItemPrices": [
+    {
+      "item_name": "cobblemon:assault_vest",
+      "min_price": 10000.0
+    }
+  ],
+  "bannedItems": [
+    "cobblemon:lucky_egg"
+  ],
+  "bannedPokemon": [
+    "magikarp"
+  ]
+}

@@ -1,0 +1,13 @@
+name = "The Jewel Pokémon [Cobblemon]"
+filename = "diance.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oZ3g4UdZ/versions/8CguuMtc/diance.zip"
+hash-format = "sha512"
+hash = "e064f7a1168ecf205ce3094100d3a4374dd18b987902d7d51f9f96d557ddee9c843885fad8ab920bce299200a020ad1d6acdade49215840021f95b776ae7e426"
+
+[update]
+[update.modrinth]
+mod-id = "oZ3g4UdZ"
+version = "8CguuMtc"

@@ -1,0 +1,13 @@
+name = "Poké Costume [cobblemon]"
+filename = "Poké Costume [2.0].zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k1X1bPvt/versions/BGOgbXG2/Pok%C3%A9%20Costume%20%5B2.0%5D.zip"
+hash-format = "sha512"
+hash = "accf4eaa532327f825709e69a54c18d07fe138460c41b6f9bc5b7b3caaca206c2503f09a84bd0d72f90d80eb705559b845cd1e80527f5855379586ed619ee967"
+
+[update]
+[update.modrinth]
+mod-id = "k1X1bPvt"
+version = "BGOgbXG2"
