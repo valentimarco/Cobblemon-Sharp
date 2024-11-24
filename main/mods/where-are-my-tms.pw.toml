@@ -1,0 +1,13 @@
+name = "Where Are My TMs"
+filename = "wherearemytms-2.1.2-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vFNJtZsv/versions/Df3y9tvE/wherearemytms-2.1.2-hotfix.jar"
+hash-format = "sha512"
+hash = "8e13950d92d16ab72a6c132472e3af967bfd4d1e6495600ae5f6bf701761bda25a4ad1d68f7a887cefcee65fcc5113fe98be1667c99fdb0ba9a71559ff901213"
+
+[update]
+[update.modrinth]
+mod-id = "vFNJtZsv"
+version = "Df3y9tvE"

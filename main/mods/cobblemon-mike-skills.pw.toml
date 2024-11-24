@@ -1,0 +1,13 @@
+name = "Cobblemon Mike Skills"
+filename = "cobblemonmikeskills-fabric-1.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pz7mD5PJ/versions/cMrjHzLW/cobblemonmikeskills-fabric-1.0.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "55a598e6011348aaf02b4d6a6687c4a66322b3d3b65647cdbea650d801d519ad8d39033a7d89afb08c604de2e5b5603d6ecb5b463db1dcb42bf7e51a34a69bd8"
+
+[update]
+[update.modrinth]
+mod-id = "Pz7mD5PJ"
+version = "cMrjHzLW"

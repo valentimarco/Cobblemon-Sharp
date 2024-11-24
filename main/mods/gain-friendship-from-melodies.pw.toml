@@ -1,0 +1,13 @@
+name = "Gain Friendship From Melodies"
+filename = "gain_friendship_from_melodies-fabric-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oWwjWIyv/versions/8bBosP9M/gain_friendship_from_melodies-fabric-0.2.0.jar"
+hash-format = "sha512"
+hash = "43ea7b6995f631702b42c81b7950ed710814501f99e31dc0176b0f89cdcb2551571818d4f837f97427d15f16a58fa50f250852f6a5db46c13a398718e2d33979"
+
+[update]
+[update.modrinth]
+mod-id = "oWwjWIyv"
+version = "8bBosP9M"

@@ -1,0 +1,13 @@
+name = "Impactor"
+filename = "Impactor-Fabric-5.2.7+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LdBYVaPS/versions/TMvkKGtB/Impactor-Fabric-5.2.7%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "6738541bfcd43e32533614394e91519a009db0816d53c14fdcb886e1dc180ad1345f83e6007b69e9621a73ca7937228e7838b6561d96e0c412064142c8b957ac"
+
+[update]
+[update.modrinth]
+mod-id = "LdBYVaPS"
+version = "TMvkKGtB"

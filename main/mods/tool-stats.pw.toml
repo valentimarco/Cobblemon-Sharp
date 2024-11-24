@@ -1,0 +1,13 @@
+name = "Tool Stats"
+filename = "ToolStats-Fabric-1.20.1-16.0.9.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vuGFx44e/versions/o4CYZoEP/ToolStats-Fabric-1.20.1-16.0.9.jar"
+hash-format = "sha512"
+hash = "d8a4a9a5efdc09cb75712e5428fdf6ca818c97395e184e0b8e0152e8dc9335897418b01c2957ec9b8d8dcc74f3be62d99bb651380d9f9dc7ac94dc72c7c1d0be"
+
+[update]
+[update.modrinth]
+mod-id = "vuGFx44e"
+version = "o4CYZoEP"

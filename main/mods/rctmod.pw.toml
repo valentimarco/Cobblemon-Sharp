@@ -1,0 +1,13 @@
+name = "Radical Cobblemon Trainers"
+filename = "rctmod-fabric-1.20.1-0.12.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lRwTUnD7/versions/PLPPU3AH/rctmod-fabric-1.20.1-0.12.0-beta.jar"
+hash-format = "sha512"
+hash = "5aeadb5056f543e102c9e5d1f4bf23581301524c53efb8637d3d55a075fdaa05d34a038ed25cd9406d2dea097c959aca0b7740b48425fdd2245aef31bb6e78fd"
+
+[update]
+[update.modrinth]
+mod-id = "lRwTUnD7"
+version = "PLPPU3AH"

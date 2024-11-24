@@ -1,0 +1,13 @@
+name = "[Cobblemon] BadgeBox"
+filename = "badgebox-1.1.0 (No MR slot).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8J7TR166/versions/ur3SvNmD/badgebox-1.1.0%20%28No%20MR%20slot%29.jar"
+hash-format = "sha512"
+hash = "69f87b7d957f0f38a733933528fa08839ec3265eb16b63aeb25c760475b92fa049bad18635ebcaee15512abf01fddd86c14e38510541d27d3b8fee480cae210b"
+
+[update]
+[update.modrinth]
+mod-id = "8J7TR166"
+version = "ur3SvNmD"

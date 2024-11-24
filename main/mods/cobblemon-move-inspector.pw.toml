@@ -1,0 +1,13 @@
+name = "Cobblemon Move Inspector"
+filename = "CobblemonMoveInspector-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MqcGBDhG/versions/ytxwITk5/CobblemonMoveInspector-1.1.1.jar"
+hash-format = "sha512"
+hash = "e6046b4cde7de3352a37babb2876115ac36d555c5cd29dcdcf9119436ffea58cf23b1e05db13cd6b2780a6a6fc9fac6c8bb6df54ca508f6e6b1fa3206d3db6b2"
+
+[update]
+[update.modrinth]
+mod-id = "MqcGBDhG"
+version = "ytxwITk5"

@@ -1,0 +1,13 @@
+name = "Pebble's Cobblemon Spawn Events"
+filename = "pebbles-spawnevents-1.0.1-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/p2sZFuwO/versions/kxAMvhBv/pebbles-spawnevents-1.0.1-fabric.jar"
+hash-format = "sha512"
+hash = "500a0065790a2562cda48a1282ae239cc7f16dc4dec13429b6db07604749925b054513b5a66cabb75c6c57f78b3957306a5d61493026cbab5885c9ace66c6161"
+
+[update]
+[update.modrinth]
+mod-id = "p2sZFuwO"
+version = "kxAMvhBv"

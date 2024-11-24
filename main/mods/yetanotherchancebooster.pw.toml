@@ -1,0 +1,13 @@
+name = "Cobblemon - Yet Another Chance Booster"
+filename = "yetanotherchancebooster-fabric-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/eDldsZiH/versions/YHrfLIma/yetanotherchancebooster-fabric-1.0.1.jar"
+hash-format = "sha512"
+hash = "7e732a30de3905631a1d41ab82598c138b19ba9b013fa0e01a4a42011667744f31375540d80c0fc8965081b7ec06063cf7868b7b0820ff7861a7a6fa16b9f86f"
+
+[update]
+[update.modrinth]
+mod-id = "eDldsZiH"
+version = "YHrfLIma"

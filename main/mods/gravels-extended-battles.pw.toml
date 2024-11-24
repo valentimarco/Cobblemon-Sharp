@@ -1,0 +1,13 @@
+name = "Gravel's Extended Battles"
+filename = "gravels_extended_battles-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qUC2Yt8r/versions/Mt56Htbr/gravels_extended_battles-1.4.0.jar"
+hash-format = "sha512"
+hash = "176ef8dc13ffb860a0bfbf08731fefa3685de5dbeb52c51c1d3d401260fe4539e9003647fa40fe5de2a00fede1238d64f6c2950dfd9e6afd1cccb9342a3f55b5"
+
+[update]
+[update.modrinth]
+mod-id = "qUC2Yt8r"
+version = "Mt56Htbr"

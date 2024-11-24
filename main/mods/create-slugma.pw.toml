@@ -1,0 +1,13 @@
+name = "Create Slugma"
+filename = "createslugma-1.20.1-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cGZKGnx7/versions/sPktn61d/createslugma-1.20.1-fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "027fd073588e8344b1acd46c75774b6a06a1360fe99ab5f1da852ca23d17914009ce66aa26487d465264463b8722b5aa9facec211fec3991e6f3f27dc761b062"
+
+[update]
+[update.modrinth]
+mod-id = "cGZKGnx7"
+version = "sPktn61d"

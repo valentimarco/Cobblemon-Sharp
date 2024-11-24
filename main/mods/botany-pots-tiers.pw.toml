@@ -1,0 +1,13 @@
+name = "Botany Pots Tiers"
+filename = "BotanyPotsTiers-Fabric-1.20.1-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fvMhZPuf/versions/FFwbaKHF/BotanyPotsTiers-Fabric-1.20.1-6.0.1.jar"
+hash-format = "sha512"
+hash = "1904f8cac8431e5e322be9eb8ee27f7c17b0120651333905db6740859f9b286dd7b44bba137afb40fbe7b96bfb2dc8ade7d4d34d517185542561fe4c9b21e3ed"
+
+[update]
+[update.modrinth]
+mod-id = "fvMhZPuf"
+version = "FFwbaKHF"

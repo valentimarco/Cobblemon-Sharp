@@ -1,0 +1,13 @@
+name = "Cobblemon Sharp"
+author = "valentimarco & contributors"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1d6e6cf84800cf6eab081f5dc4cbac83a832978069656d2be04a8d26624a8466"
+
+[versions]
+fabric = "0.16.9"
+minecraft = "1.20.1"

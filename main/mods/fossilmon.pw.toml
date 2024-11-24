@@ -1,0 +1,13 @@
+name = "Fossilmon"
+filename = "cobblefossil-0.0.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VVoACIjO/versions/SLHYSyGu/cobblefossil-0.0.6.jar"
+hash-format = "sha512"
+hash = "5605160d49f54825eea816b6f27ae401bc9bc5776be0e155890c81bb2a7455a8d254acd849ef1251ad441247dbd72f45c85e2b1e25b179b5393e0ab27c676681"
+
+[update]
+[update.modrinth]
+mod-id = "VVoACIjO"
+version = "SLHYSyGu"

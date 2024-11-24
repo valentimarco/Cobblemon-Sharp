@@ -1,0 +1,13 @@
+name = "PKGBadges / CobbleBadges"
+filename = "CobblePKG 1.0 Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vEkz5T55/versions/g9Ywn42D/CobblePKG%201.0%20Fabric.jar"
+hash-format = "sha512"
+hash = "cc6d18b8eafffd4c03e3706cd71a87d6483e10b3701593dff401509484aa69678d5eee65b35d3f52d7f5d276be4adc5fc9ac35f29c2f7c8d27cd168f3116ea69"
+
+[update]
+[update.modrinth]
+mod-id = "vEkz5T55"
+version = "g9Ywn42D"
