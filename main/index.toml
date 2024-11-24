@@ -2102,11 +2102,6 @@ hash = "151f21e070e7b08bd8c198fc2e772e5f5df1c522f34da07196f620cdebb48064"
 metafile = true
 
 [[files]]
-file = "resourcepacks/cobblemon-interface.pw.toml"
-hash = "a25e9e51679fa454c43146bd8e42fed091dbe9b4b88cbb2b7ba3c9f59314e573"
-metafile = true
-
-[[files]]
 file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
 hash = "1958d6c39b0c3c1093549fb45ea18e514bd4fc891b4dd47baae174bce3bf78cf"
 metafile = true
@@ -2114,11 +2109,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/missing-legends-cobblemon.pw.toml"
 hash = "871396a4eadec1941603763bcac238c2ff7d25691fd5edb9d5dd328536746382"
-metafile = true
-
-[[files]]
-file = "resourcepacks/pokeplaques-cobblemon.pw.toml"
-hash = "2edc2d7acbf81efd5c9310dcb1f551369ddf09b8210f86d779613c991bdf3f3e"
 metafile = true
 
 [[files]]
