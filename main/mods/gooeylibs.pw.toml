@@ -1,6 +1,6 @@
 name = "GooeyLibs"
 filename = "GooeyLibs-Fabric-3.0.0+1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KzjvlKEN/versions/BXIm53Zb/GooeyLibs-Fabric-3.0.0%2B1.20.1.jar"

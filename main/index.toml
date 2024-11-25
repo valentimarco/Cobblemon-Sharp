@@ -710,6 +710,11 @@ hash = "d2ccb037f9121e792079bbd9a5120f84fb8543493c8ebcb1c2d6eabf301afdf4"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/cobblemon-outbreaks++.pw.toml"
+hash = "acb9ae535222374d2f0a2462c7c827abda8e0e593528054e63670cd7e3f7c9c2"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/cobblemonloot.pw.toml"
 hash = "611eeb326220aed1c7a13d70ed7ec8376a6df1aafd0702b094cd14e6485dc9a7"
 metafile = true
@@ -1433,7 +1438,12 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-capture-xp.pw.toml"
-hash = "71f6f02c92c12039d4601f3df9d26f91ab330b2f30d689d23e9036d1150a7937"
+hash = "5e8e3a6f6048207778ef2cab40d480e362cc74d91b7a0334cd43b9b69714732e"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-challenge.pw.toml"
+hash = "86688a820f48d6622d2b01fd3b1fda91bd80c6feca0d208f467c0c60226cf4b3"
 metafile = true
 
 [[files]]
@@ -1443,7 +1453,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-field-moves.pw.toml"
-hash = "26a5812a6330f93cb1f553b26603dea1484bd6ff267fbf64d5c3f9569b42dd4b"
+hash = "70a6426171ae533e8d32e1b2e55224df72180f57c422b8912ebd8ec683b1ec2a"
 metafile = true
 
 [[files]]
@@ -1453,7 +1463,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-gts.pw.toml"
-hash = "bf7473664f65bdffd9372f7a48b8cf0ad89741b8518dd0960e204d7a7b8b0349"
+hash = "f0489a8ef67358286f0adbfaa7b5b60a0ad6b6a0359ae6a57c83da10d4c3d071"
 metafile = true
 
 [[files]]
@@ -1463,7 +1473,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-hunt.pw.toml"
-hash = "900fcf7f9f9ee3f0946396e08278046d65dcc2f872ebf6e9a4c1c42ce696e7d6"
+hash = "87ead1fc94a00d7bb6b76656c338bf83548f44060c993c0326a689d121f1fb36"
 metafile = true
 
 [[files]]
@@ -1483,7 +1493,7 @@ metafile = true
 
 [[files]]
 file = "mods/cobblemon-mass-outbreaks.pw.toml"
-hash = "ceac15ecbac1a32c83c6aea1b7b3798d98f61e680a79a1bf7a2be90ad62c0e39"
+hash = "c36bf3dcd247c81efb92562e3216b2b3175d5f2152e8c54a8bdeadfbfa1b497f"
 metafile = true
 
 [[files]]
@@ -1578,7 +1588,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-cobblemon-industrialized.pw.toml"
-hash = "dbd4aab06362fb02b1af502db7ae7b07737c4f4e9a0992e80a46fef373482ea1"
+hash = "8292463b6932759d90e3a6766638eb9d23eca887d004ca5682c9036123afb5db"
 metafile = true
 
 [[files]]
@@ -1618,7 +1628,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
-hash = "efa23ff6062ef28df1983e6af3fe059ddcc514cb6f3dad4392150da548c56720"
+hash = "a0c0ebf3ab1c147a7196d98ec8eb2afb70454d0cac4ddc556478dd3aa38e8dab"
 metafile = true
 
 [[files]]
@@ -1658,7 +1668,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
+hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
 metafile = true
 
 [[files]]
@@ -1718,7 +1728,7 @@ metafile = true
 
 [[files]]
 file = "mods/gooeylibs.pw.toml"
-hash = "57da126b9d2350cd2025c1e0b001de9fb1f43ebea597205b9b95a3bab9421d62"
+hash = "f9fb2cc245db508b63b0226416d883d3cbc5eaec108833e605fc4f9fcd61fb4a"
 metafile = true
 
 [[files]]
@@ -1748,7 +1758,7 @@ metafile = true
 
 [[files]]
 file = "mods/impactor.pw.toml"
-hash = "05b230b87481c1a0b8f98efce411a76ae41e2a17b516fb66769cc968e394cc37"
+hash = "027ff310f103dd5511e5d999437bef54643b5e5ad604fe85cc5d1da30c7a6813"
 metafile = true
 
 [[files]]
@@ -1813,7 +1823,7 @@ metafile = true
 
 [[files]]
 file = "mods/livelierpokemon.pw.toml"
-hash = "7185d09e2fe8df537ae24e16d925ddb64efb6fd024d5bb98c217a608a46ed06b"
+hash = "3e028deeb4d8b4100e96dd7b3260e05664b73379bfb712648416cd28c1bb122f"
 metafile = true
 
 [[files]]
@@ -1903,7 +1913,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "2b64b2a63c295cc3e7c91888d156b3f267e05cfddb86486eb171200c1bc2c1c5"
+hash = "85d699d076c93e6369972b69b0c95ff9d3427b9ff55a17d5de2ddd8879a3f18f"
 metafile = true
 
 [[files]]
@@ -1992,6 +2002,11 @@ hash = "539f2968d3ddc434abc40c12becaea92bea9f9373b27bd7ff75b67938a56a552"
 metafile = true
 
 [[files]]
+file = "mods/simpleTMS.pw.toml"
+hash = "95ac0d7c0d002894b1b7de748b6598145ca1f4f96a22def257811300d031a7e4"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
@@ -2057,13 +2072,18 @@ hash = "12262a6fc189ddd24d3231a59054e07c3cd12dcba364055244f41e8331f139fb"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "9dd3d11341e8bfeace519265aaef17dd8c992bab80d0432b2b77d42bbe9d4c74"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "4e5e8e88792b8e320cf459b00b3f34e83af9732257d11b7bb3aaa411ef2e7f40"
 metafile = true
 
 [[files]]
 file = "mods/yetanotherchancebooster.pw.toml"
-hash = "0bb0c694f4fd9239949db9c1026d4427a327aa14067e014314daaff072da3b57"
+hash = "e3141fc224d0613e549dad689fc7b8a7d518d22aa601fa4af57d26a0a978ae34"
 metafile = true
 
 [[files]]

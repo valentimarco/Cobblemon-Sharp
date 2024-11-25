@@ -1,6 +1,6 @@
 name = "Create: Cobblemon Industrialized"
 filename = "Create-Cobblemon-Fabric-x0.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tOucrGJ4/versions/mGMxtfyM/Create-Cobblemon-Fabric-x0.4.jar"

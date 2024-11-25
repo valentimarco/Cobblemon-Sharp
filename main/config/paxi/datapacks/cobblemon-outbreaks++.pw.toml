@@ -1,0 +1,13 @@
+name = "Cobblemon Outbreaks++"
+filename = "cobblemonoutbreaks++-v1.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hvgvbrTo/versions/Kxu0iRHH/cobblemonoutbreaks%2B%2B-v1.0.zip"
+hash-format = "sha512"
+hash = "362505a7e95584bc6a00e990cdd7957a62712a50042c0a9d3a765d8fa9166a9eb52aa34713cb24a6685cb44a3d88d0acb4d080ba8f17da25c640ec4bdc14ed9d"
+
+[update]
+[update.modrinth]
+mod-id = "hvgvbrTo"
+version = "Kxu0iRHH"

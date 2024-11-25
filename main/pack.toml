@@ -1,12 +1,12 @@
 name = "Cobblemon Sharp"
 author = "valentimarco & contributors"
-version = "0.0.1"
+version = "0.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "51b85058bde34056e0605bb9578d0531e9e04b0a8e8dd16abaec82f44fe2751a"
+hash = "69cd86d9d0f32b0b0d92772273eef7a237ce1db025b227bbec7e077e8b147de2"
 
 [versions]
 fabric = "0.16.9"
