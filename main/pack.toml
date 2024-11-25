@@ -1,6 +1,6 @@
 name = "Cobblemon Sharp"
 author = "valentimarco & contributors"
-version = "0.0.1"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
