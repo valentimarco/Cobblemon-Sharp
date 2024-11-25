@@ -1353,7 +1353,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
 
 [[files]]
@@ -1658,7 +1658,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
+hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
@@ -1694,6 +1694,16 @@ metafile = true
 [[files]]
 file = "mods/fossilmon.pw.toml"
 hash = "ca775fe30a11e25546be55f6a0114750119942a0b3d9f5dde6863a3b2eb97ceb"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-fabric.pw.toml"
+hash = "255944c0a16d4610450a7787adb4d7888b5beac78b6ac19cd24f550832f25a88"
+metafile = true
+
+[[files]]
+file = "mods/ftb-ultimine-fabric.pw.toml"
+hash = "dfa3b6fcff71eda68630dbadf8e23d28713e8ee45fd26a4b1df53a98c804575c"
 metafile = true
 
 [[files]]
